@@ -47,7 +47,8 @@
     "uuid": "8.3.2",
     "webpack": "5",
     "xstate": "4.38.3",
-    "yup": "0.32.11"
+    "yup": "0.32.11", 
+    "yarn": "1.22.22"
   },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "7.21.11",
